@@ -1,5 +1,5 @@
 <h1 align="center">
-📄<br>Commits Semânticos 
+<br>Commits Semânticos 
 </h1>
 
 Commit semântico é uma prática de versionamento de código que incentiva o desenvolvedor a escrever mensagens de commit significativas e descritivas. 
